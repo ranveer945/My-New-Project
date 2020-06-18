@@ -1,1 +1,0 @@
-web: gunicorn sclouds.wsgi
